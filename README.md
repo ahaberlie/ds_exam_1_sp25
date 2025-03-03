@@ -1,1 +1,3 @@
-# ds_exam_1_sp25
+# Data Science for the Geosciences 
+
+## Exam 1 - Due 11:59 p.m. on Sunday, March 23rd
